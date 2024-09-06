@@ -91,17 +91,17 @@ public class Resistores {
 
     public static void main(String[] args) {
 
-      System.out.println("10 ohms " + getResistorColorCode("10 ohms"));
+        System.out.println("10 ohms " + getResistorColorCode("10 ohms"));
         System.out.println("100 ohms " + getResistorColorCode("100 ohms"));
         System.out.println("220 ohms " + getResistorColorCode("220 ohms"));
         System.out.println("330 ohms " + getResistorColorCode("330 ohms"));
         System.out.println("470 ohms " + getResistorColorCode("470 ohms"));
-       System.out.println("470.5 ohms " + getResistorColorCode("470.5 ohms"));
-       System.out.println("680 ohms " + getResistorColorCode("680 ohms"));
-      System.out.println("1k ohms " + getResistorColorCode("1k ohms"));
-       System.out.println("4.7k ohms " + getResistorColorCode("4.7k ohms"));
-       System.out.println("2M ohms " + getResistorColorCode("2M ohms"));
-       System.out.println("2.1M ohms " + getResistorColorCode("2.1M ohms"));
+        System.out.println("470.5 ohms " + getResistorColorCode("470.5 ohms"));
+        System.out.println("680 ohms " + getResistorColorCode("680 ohms"));
+        System.out.println("1k ohms " + getResistorColorCode("1k ohms"));
+        System.out.println("4.7k ohms " + getResistorColorCode("4.7k ohms"));
+        System.out.println("2M ohms " + getResistorColorCode("2M ohms"));
+        System.out.println("2.1M ohms " + getResistorColorCode("2.1M ohms"));
 
     }
 
